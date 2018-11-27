@@ -14,4 +14,4 @@ You can find the analysis process documented [here](Energy_mix_2016-gross-inland
 
 ## Result
 
-[](DWData_Europe_EnergyConsumption_EnergyMix.png)
+![](DWData_Europe_EnergyConsumption_EnergyMix.png)
